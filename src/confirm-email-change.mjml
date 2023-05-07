@@ -101,7 +101,7 @@
           color="#FFFFFF"
           css-class="btn-rounded"
         >
-          ยีนยันอีเมล
+          ยืนยันอีเมล
         </mj-button>
       </mj-column>
     </mj-section>
