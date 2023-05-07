@@ -1,0 +1,182 @@
+<mjml>
+  <mj-head>
+    <!-- Fonts -->
+
+    <!-- English fonts -->
+    <mj-font
+      name="Space Grotesk"
+      href="https://fonts.googleapis.com/css?family=Space+Grotesk"
+    />
+    <mj-font
+      name="Inter"
+      href="https://fonts.googleapis.com/css?family=Inter"
+    />
+
+    <!-- Thai fonts -->
+    <mj-font
+      name="IBM Plex Sans Thai"
+      href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Thai"
+    />
+    <mj-font
+      name="Sarabun"
+      href="https://fonts.googleapis.com/css?family=Sarabun"
+    />
+
+    <!-- Styles -->
+    <!-- prettier-ignore -->
+    <mj-style inline="inline">
+      .btn-rounded td,
+      .btn-rounded a {
+        border-radius: 9999px !important;
+      }
+
+      .no-gap td {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body width="674px">
+    <!-- Hero -->
+    <mj-hero
+      mode="fixed-height"
+      height="200px"
+      background-url="https://lh3.googleusercontent.com/fife/APg5EOa0WdevS6leWkQJsgS8uGoAWQWfSWDD_EnnHyusCnAydpVmnFSgC8DvI3dwUkbD4vLZgMfWg6nHpYb0t_YrTmEbaXNg32fOAAC-xkJmc8uUxlPtiH6zDaomSpzkb5ScbuRZhnqNYyRDxji8sGo851GFX3u6vyppuAwlLGGFyNddGE1hAEn1zcULEUsW8x2NglsxkQ2-nM_6S5m2Xk_lXjHcr-4kErYh-A5t6hTAyrtK1Cnyy4Jvzg36q1L0xTLEQg4waolwolwAOu3yKOJ7Aum3saRiLdtaPY-SbiTP0ZBa_6--ymfkI3kKOjoPj5CKCMzLYpCC5U1UFDThxw6FPG1tq_cr6ViczYFXYgvu-zcLPf9jYJRn8zPW0XYnr-muWSKENLfFpCQUQxZTZY7vt8mAzY4twYB_j8ItPP1wqX9ndoLHb386XjFRRlJJzt-EC2WALjk1mqG3FAqQzdvxN7GCLFNJsX-2_MjbmHjtflKnKthTysF9eu75AY4B6ZurmlCI6G3KXxPyByXM12yef-yiaCHvXukm8nMUaltqajwdHXEkrYuRN-LvcVNPEAFhp4QAAX6oPKAbYLgys8i1edOW_TBkaN8ID02C7n38S9ukRK0VI0lLQNqY9t2Xj-1ZWBchZAAu-aOXdCIEZDUyINybsNjf0G3NrNt-atShwV21qVL8BqXxyzSqzacVLebioGyIqMeBuL2w0pWKRvUjkaAQQYunJSUcXhRGwAbv4rME_YnK1t9MDYXJI6uxd6l7q0jc2km5cJHiwzGZQHCjh061in3kNbkcalUuc0GqQW3tnBIauc8mFvEmuL5rwafEjvLVZjY9IQJwoFZSorfyzTualZ9OgzNjRz-9bUnKfuOOD7VAiJywrFFcXqiPJtXfRCZEQomyqcZztVzs7qdGf9a4ESiCASXNlxOMYwGNAkEYvWGlmkVQl3AcfRClGYeCcEWyNdtBRsuGBTzjtefwIuAY0lH7SYcJDn38cDalmi_qdPo1NjETj_ZAU52UcPPfm2jKkqwUGy29jNZdsYPH_w9bjg0rIWURKVG5LFUIy4WdD-F3KxxkR9ClWbIWT7WRNG8RbQpsz4MJLjzrQ79jzawH9G9TFu42yYhVasPinVUTPJs28ie_VJNvE0jRkLnH9hDFtDk6qK5t6Q1PorQOoQIfzXBansLkLss21TyGbnxx8_uJb9E7FJoAxUf5LuFFeUp5qu0uQKJqqr5MY6SP71iW57dYLyv_Mz2CKX2CErQlrLANVff4CEy3ITFuDnCmyxBvoI2U-iz44UCQaLuEpheogbEOMDPmfbCBgVUYhK-JVze1lp9tZlE13K7Rq4-3TfufdhvVS7WUNjS7iOQmUkzgLWaaEfJqwrW0boNDh4VBmAMv_6cbV43U_6NC2uPyVc0r1y7MGyf66Ldxz3EbUgJGnzrUVW8a7aytOkU-aXxE4VCYv-6Ymo4qjy43dmcjU9pcCWv1z9REhMQPvigj7MPBipVRfUHvRs7mDygTlncXb1Dx2YX2rURC-KkqZFhB9jFZ0Oz3KyfM3JBUrngAMcuz_pQyAp9Ae_8oaYxtS6vV0baJWAL7za1lQRNa2xtUOupA=w1315-h696"
+      background-color="#FBFCFF"
+      background-position="center right"
+      padding="24px 8px"
+    >
+      <mj-text
+        font-size="57px"
+        font-family="Space Grotesk, Helvetica, Arial, sans-serif"
+        color="#191C1E"
+      >
+        MySK
+      </mj-text>
+    </mj-hero>
+
+    <!-- Thai -->
+    <mj-section background-color="#FBFCFF" padding="24px 8px">
+      <mj-column>
+        <!-- Header -->
+        <mj-text
+          font-size="32px"
+          font-family="IBM Plex Sans Thai, Kanit, sans-serif"
+          line-height="32px"
+          color="#191C1E"
+        >
+          ยืนยันการเปลี่ยนอีเมล
+        </mj-text>
+
+        <!-- Description -->
+        <mj-text
+          font-size="16px"
+          font-family="Inter, Sarabun, sans-serif"
+          line-height="24px"
+          color="#191C1E"
+        >
+          คุณกำลังจะเปลี่ยนอีเมลจาก {{ .Email }} ไป {{ .NewEmail }}
+          ให้กดลิงก์ด้านล่างเพื่อยืนยันการเปลี่ยนอีเมล
+        </mj-text>
+        <mj-text
+          font-size="16px"
+          font-family="Inter, Sarabun, sans-serif"
+          line-height="24px"
+          color="#191C1E"
+        >
+          อย่าลืมว่าระบบส่งอีเมลไปทั้งที่ที่อยู่อีเมลเก่าและที่อยู่อีเมลใหม่
+          ให้ไปกดลิงก์ที่ทั้ง 2 อีเมล
+        </mj-text>
+
+        <!-- Action -->
+        <mj-button
+          align="right"
+          href="{{ .ConfirmationURL }}"
+          font-size="14px"
+          font-weight="500"
+          font-family="IBM Plex Sans Thai, Kanit, sans-serif"
+          line-height="20px"
+          background-color="#00658F"
+          inner-padding="10px 24px"
+          color="#FFFFFF"
+          css-class="btn-rounded"
+        >
+          ยีนยันอีเมล
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- English -->
+    <mj-section background-color="#EEF4F9" padding="24px 8px">
+      <mj-column>
+        <!-- Header -->
+        <mj-text
+          font-size="32px"
+          font-family="Space Grotesk, Helvetica, Arial, sans-serif"
+          line-height="40px"
+          color="#191C1E"
+        >
+          Confirm email change
+        </mj-text>
+
+        <!-- Description -->
+        <mj-text
+          font-size="16px"
+          font-family="Inter, Arial, sans-serif"
+          line-height="24px"
+          color="#191C1E"
+        >
+          You’re changing your email from {{ .Email }} to {{ .NewEmail }}. Click
+          the link below to confirm the change.
+        </mj-text>
+        <mj-text
+          font-size="16px"
+          font-family="Inter, Arial, sans-serif"
+          line-height="24px"
+          color="#191C1E"
+        >
+          Don’t forget: we sent you 2 emails: one on your old address and
+          another on your new one. Click the link on both.
+        </mj-text>
+
+        <!-- Action -->
+        <mj-button
+          align="right"
+          href="{{ .ConfirmationURL }}"
+          font-size="14px"
+          font-weight="500"
+          font-family="Space Grotesk, Helvetica, Arial, sans-serif"
+          line-height="20px"
+          background-color="#00658F"
+          inner-padding="10px 24px"
+          color="#FFFFFF"
+          css-class="btn-rounded"
+        >
+          Confirm email
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- No reply note -->
+    <mj-section background-color="#DDE3EA" padding="24px 8px">
+      <mj-column css-class="no-gap">
+        <mj-text
+          font-size="14px"
+          font-family="Inter, Sarabun, sans-serif"
+          line-height="20px"
+          color="#41484D"
+        >
+          อีเมลนี้เป็นอีเมลที่ระบบส่งอัตโนมัติ กรุณาอย่าตอบ
+        </mj-text>
+        <mj-text
+          font-size="12px"
+          font-family="Inter, Sarabun, sans-serif"
+          line-height="16px"
+          color="#41484D"
+        >
+          This is an automatically sent email. Please do not reply.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
